@@ -33,3 +33,15 @@ C:\Users\Administrator\Desktop\WPF_serialport\serialport\serialport\obj\Debug\se
 C:\Users\Administrator\Desktop\WPF_serialport\serialport\serialport\obj\Debug\serialport.FormTestSerialPort.zh-CN.resources
 C:\Users\Administrator\Desktop\WPF_serialport\serialport\serialport\obj\Debug\serialport.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\WPF_serialport\serialport\serialport\obj\Debug\zh-CN\serialport.resources.dll
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.FormTestSerialPort.resources
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.FormTestSerialPort.zh-CN.resources
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\serialport.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\bin\Debug\zh-CN\serialport.resources.dll
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\obj\Debug\zh-CN\serialport.resources.dll
+C:\Users\Administrator\Desktop\Button_Test\serialport\serialport\bin\Debug\serialport.exe.config
